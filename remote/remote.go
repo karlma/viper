@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	crypt "github.com/sagikazarmark/crypt/config"
+	crypt "github.com/karlma/crypt/config"
 
 	"github.com/spf13/viper"
 )
